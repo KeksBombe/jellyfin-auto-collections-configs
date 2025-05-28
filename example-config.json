@@ -48,36 +48,1252 @@
       "CaseSensitive": false,
       "MatchType": 0,
       "MediaType": 0
+    },
+    {
+      "TitleMatch": "Fast & Furious",
+      "CollectionName": "Fast & Furious",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Mission Impossible",
+      "CollectionName": "Mission Impossible",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Matrix",
+      "CollectionName": "The Matrix",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Lord of the Rings",
+      "CollectionName": "The Lord of the Rings",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Hobbit",
+      "CollectionName": "The Hobbit",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Star Wars",
+      "CollectionName": "Star Wars",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Indiana Jones",
+      "CollectionName": "Indiana Jones",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Pirates of the Caribbean",
+      "CollectionName": "Pirates of the Caribbean",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Batman",
+      "CollectionName": "Batman",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Dark Knight",
+      "CollectionName": "The Dark Knight Trilogy",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Superman",
+      "CollectionName": "Superman",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "X-Men",
+      "CollectionName": "X-Men",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Deadpool",
+      "CollectionName": "Deadpool",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wolverine",
+      "CollectionName": "Wolverine",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Iron Man",
+      "CollectionName": "Iron Man",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Captain America",
+      "CollectionName": "Captain America",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Thor",
+      "CollectionName": "Thor",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Black Panther",
+      "CollectionName": "Black Panther",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Doctor Strange",
+      "CollectionName": "Doctor Strange",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Guardians of the Galaxy",
+      "CollectionName": "Guardians of the Galaxy",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Shrek",
+      "CollectionName": "Shrek",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ice Age",
+      "CollectionName": "Ice Age",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Madagascar",
+      "CollectionName": "Madagascar",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "How to Train Your Dragon",
+      "CollectionName": "How to Train Your Dragon",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Kung Fu Panda",
+      "CollectionName": "Kung Fu Panda",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Despicable Me",
+      "CollectionName": "Despicable Me",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Minions",
+      "CollectionName": "Minions",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Incredibles",
+      "CollectionName": "The Incredibles",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Toy Story",
+      "CollectionName": "Toy Story",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Cars",
+      "CollectionName": "Cars",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Finding Nemo",
+      "CollectionName": "Finding Nemo",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Monsters, Inc.",
+      "CollectionName": "Monsters, Inc.",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Frozen",
+      "CollectionName": "Frozen",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Zootopia",
+      "CollectionName": "Zootopia",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Encanto",
+      "CollectionName": "Encanto",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Moana",
+      "CollectionName": "Moana",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ant-Man",
+      "CollectionName": "Ant-Man",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Captain Marvel",
+      "CollectionName": "Captain Marvel",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Eternals",
+      "CollectionName": "Eternals",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Shang-Chi",
+      "CollectionName": "Shang-Chi",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Venom",
+      "CollectionName": "Venom",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Flash",
+      "CollectionName": "The Flash",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Aquaman",
+      "CollectionName": "Aquaman",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Justice League",
+      "CollectionName": "Justice League",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Suicide Squad",
+      "CollectionName": "Suicide Squad",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wonder Woman",
+      "CollectionName": "Wonder Woman",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Rocky",
+      "CollectionName": "Rocky",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Creed",
+      "CollectionName": "Creed",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Rambo",
+      "CollectionName": "Rambo",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Die Hard",
+      "CollectionName": "Die Hard",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Lethal Weapon",
+      "CollectionName": "Lethal Weapon",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Godfather",
+      "CollectionName": "The Godfather",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Bourne",
+      "CollectionName": "Jason Bourne",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "James Bond",
+      "CollectionName": "James Bond",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Halloween",
+      "CollectionName": "Halloween",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Friday the 13th",
+      "CollectionName": "Friday the 13th",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Nightmare on Elm Street",
+      "CollectionName": "Nightmare on Elm Street",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Conjuring",
+      "CollectionName": "The Conjuring Universe",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Annabelle",
+      "CollectionName": "Annabelle",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Insidious",
+      "CollectionName": "Insidious",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paranormal Activity",
+      "CollectionName": "Paranormal Activity",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Saw",
+      "CollectionName": "Saw",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Hotel Transylvania",
+      "CollectionName": "Hotel Transylvania",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Lego Movie",
+      "CollectionName": "The Lego Movie",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wreck-It Ralph",
+      "CollectionName": "Wreck-It Ralph",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Raya and the Last Dragon",
+      "CollectionName": "Raya and the Last Dragon",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Big Hero 6",
+      "CollectionName": "Big Hero 6",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sing",
+      "CollectionName": "Sing",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Trolls",
+      "CollectionName": "Trolls",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Croods",
+      "CollectionName": "The Croods",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Rio",
+      "CollectionName": "Rio",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Happy Feet",
+      "CollectionName": "Happy Feet",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Secret Life of Pets",
+      "CollectionName": "The Secret Life of Pets",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Cloudy with a Chance of Meatballs",
+      "CollectionName": "Cloudy with a Chance of Meatballs",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Percy Jackson",
+      "CollectionName": "Percy Jackson",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Divergent",
+      "CollectionName": "Divergent",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Maze Runner",
+      "CollectionName": "The Maze Runner",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Chronicles of Narnia",
+      "CollectionName": "The Chronicles of Narnia",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Eragon",
+      "CollectionName": "Eragon",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Dune",
+      "CollectionName": "Dune",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Star Trek",
+      "CollectionName": "Star Trek",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Pacific Rim",
+      "CollectionName": "Pacific Rim",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Godzilla",
+      "CollectionName": "Godzilla",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "King Kong",
+      "CollectionName": "King Kong",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Avatar",
+      "CollectionName": "Avatar",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Alita",
+      "CollectionName": "Alita: Battle Angel",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Pitch Perfect",
+      "CollectionName": "Pitch Perfect",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Hangover",
+      "CollectionName": "The Hangover",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "21 Jump Street",
+      "CollectionName": "21 Jump Street",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Zombieland",
+      "CollectionName": "Zombieland",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Night at the Museum",
+      "CollectionName": "Night at the Museum",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Grown Ups",
+      "CollectionName": "Grown Ups",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Lion King",
+      "CollectionName": "The Lion King",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Beauty and the Beast",
+      "CollectionName": "Beauty and the Beast",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Aladdin",
+      "CollectionName": "Aladdin",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Cinderella",
+      "CollectionName": "Cinderella",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Little Mermaid",
+      "CollectionName": "The Little Mermaid",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Mulan",
+      "CollectionName": "Mulan",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Peter Pan",
+      "CollectionName": "Peter Pan",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paddington",
+      "CollectionName": "Paddington",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sherlock Holmes",
+      "CollectionName": "Sherlock Holmes",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Fantastic Beasts",
+      "CollectionName": "Fantastic Beasts",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Enola Holmes",
+      "CollectionName": "Enola Holmes",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Halloween",
+      "CollectionName": "Halloween",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Friday the 13th",
+      "CollectionName": "Friday the 13th",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Nightmare on Elm Street",
+      "CollectionName": "A Nightmare on Elm Street",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Conjuring",
+      "CollectionName": "The Conjuring Universe",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Annabelle",
+      "CollectionName": "The Conjuring Universe",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Nun",
+      "CollectionName": "The Conjuring Universe",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Saw",
+      "CollectionName": "Saw",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Jigsaw",
+      "CollectionName": "Saw",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Final Destination",
+      "CollectionName": "Final Destination",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Scream",
+      "CollectionName": "Scream",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Texas Chainsaw",
+      "CollectionName": "Texas Chainsaw Massacre",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Leatherface",
+      "CollectionName": "Texas Chainsaw Massacre",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "It",
+      "CollectionName": "It",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Pennywise",
+      "CollectionName": "It",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Purge",
+      "CollectionName": "The Purge",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paranormal Activity",
+      "CollectionName": "Paranormal Activity",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Insidious",
+      "CollectionName": "Insidious",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Blair Witch",
+      "CollectionName": "Blair Witch",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Jeepers Creepers",
+      "CollectionName": "Jeepers Creepers",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Cloverfield",
+      "CollectionName": "Cloverfield",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Tremors",
+      "CollectionName": "Tremors",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Meg",
+      "CollectionName": "The Meg",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Dracula",
+      "CollectionName": "Universal Monsters",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Frankenstein",
+      "CollectionName": "Universal Monsters",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Mummy",
+      "CollectionName": "Universal Monsters",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "The Wolf Man",
+      "CollectionName": "Universal Monsters",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Chucky",
+      "CollectionName": "Child's Play",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Child's Play",
+      "CollectionName": "Child's Play",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Buffy",
+      "CollectionName": "Buffy the Vampire Slayer",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Twilight Zone",
+      "CollectionName": "The Twilight Zone",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "X-Files",
+      "CollectionName": "X-Files",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Goosebumps",
+      "CollectionName": "Goosebumps",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Planes Trains & Automobiles",
+      "CollectionName": "Thanksgiving",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Charlie Brown Thanksgiving",
+      "CollectionName": "Thanksgiving",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
     }
   ],
   "ExpressionCollections": [
     {
       "CollectionName": "Spiderman",
-      "Expression": "TITLE \u0022Spider\u0022 AND TITLE \u0022amazing\u0022",
-      "CaseSensitive": false,
-      "ParsedExpression": {},
-      "ParseErrors": []
+      "Expression": "TITLE \"Spider\" AND TITLE \"amazing\"",
+      "CaseSensitive": false
     },
     {
       "CollectionName": "Avengers",
-      "Expression": "STUDIO \u0022Marvel\u0022 AND TITLE \u0022Avengers\u0022",
-      "CaseSensitive": false,
-      "ParsedExpression": {},
-      "ParseErrors": []
+      "Expression": "STUDIO \"Marvel\" AND TITLE \"Avengers\"",
+      "CaseSensitive": false
     },
     {
       "CollectionName": "Back to the Future",
-      "Expression": "TITLE \u0022Back to the Future\u0022 OR TITLE \u0022Zur\u00FCck in die Zukunft\u0022",
-      "CaseSensitive": false,
-      "ParsedExpression": {},
-      "ParseErrors": []
+      "Expression": "TITLE \"Back to the Future\" OR TITLE \"Zur\u00fcck in die Zukunft\"",
+      "CaseSensitive": false
     },
     {
       "CollectionName": "Spider-Man",
-      "Expression": "TITLE \u0022Spider-Man\u0022 AND ACTOR \u0022Tobey Maguire\u0022",
-      "CaseSensitive": false,
-      "ParsedExpression": {},
-      "ParseErrors": []
+      "Expression": "TITLE \"Spider-Man\" AND ACTOR \"Tobey Maguire\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Marvel Action",
+      "Expression": "STUDIO \"Marvel\" AND GENRE \"Action\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Marvel Stars",
+      "Expression": "STUDIO \"Marvel\" AND (TITLE \"Spiderman\" OR ACTOR \"Robert Downey JR.\")",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Action Movies",
+      "Expression": "GENRE \"Action\" AND MOVIE",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Avengers and Action Shows",
+      "Expression": "TITLE \"Avengers\" OR (GENRE \"Action\" AND SHOW)",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Family Movies",
+      "Expression": "TAG \"Family\" AND MOVIE",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "PG-13 Horror",
+      "Expression": "PARENTALRATING \"PG-13\" AND GENRE \"Horror\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Top Rated Content",
+      "Expression": "COMMUNITYRATING \">8.5\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Critically Acclaimed Dramas",
+      "Expression": "CRITICSRATING \">75\" AND GENRE \"Drama\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "German or Austrian Films",
+      "Expression": "PRODUCTIONLOCATION \"Germany\" OR PRODUCTIONLOCATION \"Austria\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "90s Films",
+      "Expression": "YEAR \">=1990\" AND YEAR \"<=1999\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "2000s Sci-Fi",
+      "Expression": "GENRE \"Sci-Fi\" AND YEAR \">=2000\" AND YEAR \"<=2010\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "English Movies",
+      "Expression": "LANG \"eng\" AND MOVIE",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "English Subtitled Movies",
+      "Expression": "SUB \"eng\" AND MOVIE",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "English Audio or Subs",
+      "Expression": "MOVIE AND (LANG \"eng\" OR SUB \"eng\")",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "French No English Subs",
+      "Expression": "MOVIE AND LANG \"fra\" AND NOT SUB \"eng\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Halloween Specials",
+      "Expression": "TAG \"Halloween\" OR TITLE \"Halloween\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Christmas Classics",
+      "Expression": "TAG \"Christmas\" OR TITLE \"Christmas\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Holiday Animated Specials",
+      "Expression": "GENRE \"Animation\" AND TAG \"Holiday\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Thanksgiving",
+      "Expression": "TITLE \"Thanksgiving\" OR TITLE \"Planes Trains & Automobiles\" OR TITLE \"Charlie Brown Thanksgiving\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Christopher Nolan",
+      "Expression": "DIRECTOR \"Christopher Nolan\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Steven Spielberg",
+      "Expression": "DIRECTOR \"Steven Spielberg\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Quentin Tarantino",
+      "Expression": "DIRECTOR \"Quentin Tarantino\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Martin Scorsese",
+      "Expression": "DIRECTOR \"Martin Scorsese\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "James Cameron",
+      "Expression": "DIRECTOR \"James Cameron\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Wes Anderson",
+      "Expression": "DIRECTOR \"Wes Anderson\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Tom Hanks",
+      "Expression": "ACTOR \"Tom Hanks\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Denzel Washington",
+      "Expression": "ACTOR \"Denzel Washington\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Leonardo DiCaprio",
+      "Expression": "ACTOR \"Leonardo DiCaprio\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Meryl Streep",
+      "Expression": "ACTOR \"Meryl Streep\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Samuel L. Jackson",
+      "Expression": "ACTOR \"Samuel L. Jackson\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Keanu Reeves",
+      "Expression": "ACTOR \"Keanu Reeves\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Pixar",
+      "Expression": "STUDIO \"Pixar\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "DreamWorks",
+      "Expression": "STUDIO \"DreamWorks\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Illumination",
+      "Expression": "STUDIO \"Illumination\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "A24",
+      "Expression": "STUDIO \"A24\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Studio Ghibli",
+      "Expression": "STUDIO \"Ghibli\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Oscar Best Picture Winners",
+      "Expression": "TAG \"Best Picture\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Oscar Winners",
+      "Expression": "TAG \"Oscar Winner\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Golden Globe Winners",
+      "Expression": "TAG \"Golden Globe Winner\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Cannes Winners",
+      "Expression": "TAG \"Cannes\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Sitcoms",
+      "Expression": "GENRE \"Comedy\" AND SHOW AND TAG \"Sitcom\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Crime Dramas",
+      "Expression": "GENRE \"Crime\" AND SHOW",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Documentary Series",
+      "Expression": "GENRE \"Documentary\" AND SHOW",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Animated Series",
+      "Expression": "GENRE \"Animation\" AND SHOW",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Miniseries",
+      "Expression": "TAG \"Miniseries\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Kids Only",
+      "Expression": "TAG \"Kids\" AND MOVIE",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Teens & YA",
+      "Expression": "TAG \"Teen\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Family Favorites",
+      "Expression": "TAG \"Family\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Adult Animation",
+      "Expression": "GENRE \"Animation\" AND TAG \"Adult\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Korean Cinema",
+      "Expression": "LANG \"kor\" OR PRODUCTIONLOCATION \"Korea\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Japanese Animation",
+      "Expression": "LANG \"jpn\" AND GENRE \"Animation\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Bollywood",
+      "Expression": "LANG \"hin\" OR PRODUCTIONLOCATION \"India\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "European Drama",
+      "Expression": "GENRE \"Drama\" AND (PRODUCTIONLOCATION \"France\" OR PRODUCTIONLOCATION \"Germany\" OR PRODUCTIONLOCATION \"Italy\")",
+      "CaseSensitive": false
     }
   ]
 }
