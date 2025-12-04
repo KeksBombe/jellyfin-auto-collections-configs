@@ -28,11 +28,7 @@ This repository provides a place for the community to share ready-made configura
 ## 🤝 How to Contribute
 
 Want to share your own configuration?
-
-1. Fork this repository.
-2. Add your config file or edit an existing one
-3. Submit a pull request with a short description.
-4. Make sure your file is valid JSON and includes comments where helpful.
+Submit a pull request with a short description.
 
 ---
 
